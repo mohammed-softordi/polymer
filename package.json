@@ -1,6 +1,6 @@
 {
   "name": "polymer-v1.4.0",
-  "version": "1.4.1",
+  "version": "1.4.0",
   "description": "The Polymer library makes it easy to create your own web components. Give your element some markup and properties, and then use it on a site. Polymer provides features like dynamic templates and data binding to reduce the amount of boilerplate you need to write",
   "license": "http://polymer.github.io/LICENSE.txt",
   "ignore": [
@@ -16,7 +16,7 @@
     "url": "https://github.com/mohammed-softordi/polymer.git"
   },
   "dependencies": {
-    "webcomponents.js": "^0.7.20"
+    "webcomponents.js": "^0.7.24"
   },
   "devDependencies": {
     "web-component-tester": "*"
